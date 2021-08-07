@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Pratap Singh</h1>
 <h2 align="center">A passionate Full Stack Developer.</h2>
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
 - 💬 Ask me about **any difficulty you are facing in projects or concepts that include Full Stack Development. I'm happy to help.🧡**
 
 - 📫 How to reach me **amansinghania007@gmail.com**
