@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Aman Pratap Singh</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
@@ -19,5 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanpratapsingh9&show_icons=true&locale=en" alt="amanpratapsingh9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpratapsingh9&" alt="amanpratapsingh9" /></p>
 
