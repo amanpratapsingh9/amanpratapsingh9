@@ -1,13 +1,12 @@
+
+
 <h1 align="center">Hi 👋, I'm Aman Pratap Singh</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpratapsingh9" alt="amanpratapsingh9" /></a> </p>
-
-<a href="#"><img align = "right" width="60%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="70px"/></a>
 - 💬 Ask me about **Web Development like React, Angular, Vue, JavaScript, etc.**
 
 - 📫 How to reach me **amansinghania007@gmail.com**
-
+<a href="#"><img align = "right" width="70%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="80px"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amanpratapsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpratapsingh009" height="30" width="40" /></a>
@@ -21,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanpratapsingh9&show_icons=true&locale=en" alt="amanpratapsingh9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpratapsingh9&" alt="amanpratapsingh9" /></p>
+
