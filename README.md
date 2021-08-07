@@ -4,7 +4,7 @@
 - 💬 Ask me about **Web Development like React, Angular, Vue, JavaScript, etc.**
 
 - 📫 How to reach me **amansinghania007@gmail.com**
-<a href="#"><img align = "right" width="50%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="80px"/></a>
+<a href="#"><img align = "right" width="50%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="110px"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amanpratapsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpratapsingh009" height="30" width="40" /></a>
