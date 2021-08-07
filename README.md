@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Pratap Singh</h1>
-<h2 align="center">A passionate Full Stack developer.</h2>
+<h2 align="center">A passionate Full Stack Developer.</h2>
 
 - 💬 Ask me about **any difficulty you are facing in projects or concepts that include Full Stack Development. I'm happy to help.🧡**
 
