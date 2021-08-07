@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amansinghania007@gmail.com**
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="450">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="470" height="450">
 
 <h2 align="left">Connect with me:</h2>
 <a href="https://linkedin.com/in/amanpratapsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpratapsingh009" height="30" width="40" /></a>
