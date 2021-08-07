@@ -4,7 +4,7 @@
 - 💬 Ask me about **any difficulty you are facing in projects or concepts that include Full Stack Development. I'm happy to help.🧡**
 
 - 📫 How to reach me **amansinghania007@gmail.com**
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/amanpratapsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpratapsingh009" height="30" width="40" /></a>
 
