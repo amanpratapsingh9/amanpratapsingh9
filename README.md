@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aman Pratap Singh</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
-- 💬 Ask me about **any difficulty you are facing in projects or concepts that include Full Stack Development. I'm happy to help.💯🧡**
+- 💬 Ask me about **any difficulty you are facing in projects or concepts that include Full Stack Development. I'm happy to help.🧡**
 
 - 📫 How to reach me **amansinghania007@gmail.com**
 <a href="#"><img align = "right" width="50%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="110px"/></a>
