@@ -8,7 +8,7 @@
 <h2 align="left">Connect with me:</h2>
 <a href="https://linkedin.com/in/amanpratapsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpratapsingh009" height="30" width="40" /></a>
 
-
+<br>
 <img width="47%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <p align="left">
