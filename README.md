@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aman Pratap Singh</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
+<h2 align="center">A passionate Full Stack developer.</h2>
 
 - 💬 Ask me about **any difficulty you are facing in projects or concepts that include Full Stack Development. I'm happy to help.🧡**
 
 - 📫 How to reach me **amansinghania007@gmail.com**
-<a href="#"><img align = "right" width="63%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="110px"/></a>
+<a href="#"><img align = "right" width="67%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="210px"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amanpratapsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpratapsingh009" height="30" width="40" /></a>
