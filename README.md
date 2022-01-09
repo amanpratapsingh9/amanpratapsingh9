@@ -27,11 +27,11 @@
  
  <br>
 
-<!--
+
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpratapsingh9&show_icons=true&locale=en&layout=compact" alt="amanpratapsingh9" /></p>
 
--->
+
 
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="310"> 
 
@@ -41,11 +41,11 @@
 
 -->
 
-
+<!--
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpratapsingh9&" alt="amanpratapsingh9" /></p>
 
-
+-->
 
 <!--
 
