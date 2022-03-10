@@ -10,7 +10,7 @@
 
 - 👨‍💻 Portfolio  [https://amanpratapsingh.dorik.io/](https://amanpratapsingh.dorik.io/)
 - 📫 How to reach me  **amansinghania007@gmail.com**
-
+- 🤝 Let's connect **https://www.linkedin.com/in/amanpratapsingh009/**
 
 
 
