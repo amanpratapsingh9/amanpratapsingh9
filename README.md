@@ -11,7 +11,7 @@
 - 👨‍💻 Portfolio  **https://amanpratapsingh.dorik.io/**
 - 📫 How to reach me  **amansinghania007@gmail.com**
 - 🤝 Let's connect **https://www.linkedin.com/in/amanpratapsingh009/**
-- 💡 Open for full-time roles as a **Software Development Engineer**.
+- 💡  Open for full-time roles as a **Software Development Engineer**.
 
 
 <h3 align="left">Connect with me:</h3>
