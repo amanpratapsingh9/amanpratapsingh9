@@ -38,7 +38,7 @@
 
 
 
-<img align = "right" src="https://user-images.githubusercontent.com/61291155/105898723-8acab280-5ff8-11eb-86f8-571208c41457.png" width="250px" align="right" alt="Astronauta">
+<img align = "right" src="https://user-images.githubusercontent.com/61291155/105898723-8acab280-5ff8-11eb-86f8-571208c41457.png" width="350px" align="right" alt="Astronauta">
 
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="300"> 
 
