@@ -2,7 +2,7 @@
 <h1 align="center">Hey🙋‍♂️, I'm Aman Pratap Singh 👨‍💻</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
-
+  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+software+engineer" </p> 
 
 - 💬 Ask me about **any difficulty you are facing in projects or concepts that include Full Stack Development. I'm happy to help.**
 
