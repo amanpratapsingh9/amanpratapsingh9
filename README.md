@@ -35,6 +35,17 @@
 
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="310"> 
 
+
+
+<div>
+  <a href="https://github.com/amanpratapsingh9">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amanpratapsingh9&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpratapsingh9&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
+
+
+
 <!--
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanpratapsingh9&show_icons=true&locale=en" alt="amanpratapsingh9" /></p>
