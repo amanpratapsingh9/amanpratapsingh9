@@ -34,11 +34,11 @@
 
 
 
-<!--
+
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpratapsingh9&show_icons=true&locale=en&layout=compact" alt="amanpratapsingh9" /></p>
 
--->
+
 
 
 
@@ -73,11 +73,11 @@
 </div>
 
 
- <div>
+ 
   
  <br>
  <br>
- <br>
+ 
  
   
 <h2 align="left">
@@ -88,7 +88,7 @@
  ![Snake animation](https://github.com/amanpratapsingh9/amanpratapsingh9/blob/output/github-contribution-grid-snake.svg)
 
 
- </div>
+ 
  
  
  
