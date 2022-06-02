@@ -34,11 +34,11 @@
 
 
 
-
+<!--
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpratapsingh9&show_icons=true&locale=en&layout=compact" alt="amanpratapsingh9" /></p>
 
-
+-->
 
 
 
@@ -66,9 +66,9 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amanpratapsingh9&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  -->  
     
-<!-- 
+
 <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpratapsingh9&layout=compact&langs_count=7&theme=onedark"/>
--->
+
     
 </div>
 
