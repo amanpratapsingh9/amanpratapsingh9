@@ -85,7 +85,7 @@
 
  
  
- 
+ <div>
   
 <h2 align="left">
  <br>
@@ -96,7 +96,7 @@
  ![Snake animation](https://github.com/amanpratapsingh9/amanpratapsingh9/blob/output/github-contribution-grid-snake.svg)
 
  
- 
+ </div>
  
  
  
