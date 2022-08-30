@@ -87,13 +87,16 @@
  
  <div>
   
+<!--
+  
   <h2 align="left">
- <div>
+ 
     <a>💻 My Contributions</a>
 
+-->
 
   </h2>
-</div>
+
 
  ![Snake animation](https://github.com/amanpratapsingh9/amanpratapsingh9/blob/output/github-contribution-grid-snake.svg)
 
