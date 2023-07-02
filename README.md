@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpratapsingh9&label=Profile%20views&color=0e75b6&style=flat" alt="amanpratapsingh9" /> </p>
-<h1 align="center">Hey🙋‍♂️, I'm Aman Pratap Singh 👨‍💻</h1>
+<h1 align="center">Hey🙋‍♂️🙋‍♂️, I'm Aman Pratap Singh 👨‍💻</h1>
 <h3 align="center">A passionate Full Stack Developer.✨</h3>
 
 <!--
