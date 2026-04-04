@@ -15,7 +15,7 @@
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 👨‍💻 Portfolio  **https://amanpratapsingh.dorik.io/**
-- 📫 How to reach me  **amansinghania007@gmail.com**
+- 📫 How to reach me  **amancoder09@gmail.com**
 - 🤝 Let's connect **https://www.linkedin.com/in/amanpratapsingh009/**
 - 💡  Open for full-time role as a **Software Development Engineer**.
 
